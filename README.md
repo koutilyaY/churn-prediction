@@ -5,7 +5,7 @@
 [![Streamlit](https://img.shields.io/badge/dashboard-Streamlit-red.svg)](https://streamlit.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**[View Live Dashboard](https://churn-prediction-yourusername.streamlit.app)** | **[GitHub Repo](https://github.com/yourusername/churn-prediction)**
+**[View Live Dashboard](https://churn-prediction-5dgkarm7lxuqdbbim2aktj.streamlit.app)** | **[GitHub Repo](https://github.com/koutilyaY/churn-prediction)**
 
 ---
 
